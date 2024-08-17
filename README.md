@@ -6,4 +6,4 @@ Voksi grabber is a new groundbreaking beaming tool !!
 
 This is still in beta, expect crashes.
 
-Just Run the "Built" exe
+Just Run the "V0ksi_Grabber BETA".exe to open the Builder GUI
